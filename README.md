@@ -11,8 +11,8 @@ https://experienceleague.adobe.com/developer/commerce/storefront/
 
 ## Environments - AEM UE + Crosswalk
 
-- Preview: https://main--citisignal-one--adobedevxsc.aem.page/
-- Live: https://main--citisignal-one--adobedevxsc.aem.live/
+- Preview: https://main--bee-gees--kmanns.aem.page/
+- Live: https://main--bee-gees--kmanns.aem.live/
 
 ## Pre-requisites
 
